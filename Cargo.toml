@@ -1,0 +1,13 @@
+[package]
+name = "algorithms-rust"
+version = "0.1.0"
+edition = "2024"
+description = "Collection of data structures and algorithms in Rust"
+authors = ["Igor Kroshkin <igor.krosh@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/igorkrosh/algorithms-rust"
+keywords = ["algorithms", "data-structures", "sorting", "graphs", "learning"]
+categories = ["algorithms", "data-structures", "development-tools"]
+readme = "README.md"
+
+[dependencies]
