@@ -1,1 +1,1 @@
-pub mod searching;
+pub mod search;
