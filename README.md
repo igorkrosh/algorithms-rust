@@ -10,5 +10,8 @@ This is a **library crate** (not a binary), created mainly for:
 
 ## Implemented
 
-### Sorting
+### Search
 - Binary Search
+
+### Sort 
+- Selection sort
