@@ -3,7 +3,7 @@
 /// 
 /// # Examples
 /// ```
-/// use algorithms_rust::searching::binary;
+/// use algorithms_rust::search::binary;
 /// 
 /// let arr = [1, 2, 3, 4, 5];
 /// assert_eq!(binary(&arr, &3), Some(2));
