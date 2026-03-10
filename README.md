@@ -15,6 +15,7 @@ This is a **library crate** (not a binary), created mainly for:
 
 ### Sort 
 - Selection sort
+- Quick sort
 
 ### Recursion 
 - Sum of array 
