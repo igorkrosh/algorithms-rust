@@ -18,3 +18,4 @@ This is a **library crate** (not a binary), created mainly for:
 
 ### Recursion 
 - Sum of array 
+- Searching for the biggest element of an array
